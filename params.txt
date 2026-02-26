@@ -1,1 +1,1 @@
--task StartClient -placeId 87324525547073 -universeId 8440539274 -server 167.179.71.53 -port 51728 -numTestServerPlayersUponStartup 1 -parentPid 1388 -parentSessionGuid D0FB5B78-572D-4B2E-B4CD-182C78369CE5 -instanceId StudioPlayer_0 -playTestSessionGuid F719EA2F-773C-4173-8AE0-6AA2F8572443
+-task StartClient -placeId 87324525547073 -universeId 8440539274 -server 167.179.71.53 -port 51728 -numTestServerPlayersUponStartup 1 -parentPid 1396 -parentSessionGuid A79C0D3E-C2F5-4B40-8EE7-1E08268DAD27 -instanceId StudioPlayer_0 -playTestSessionGuid 5649B8AF-160B-442A-8536-70E7646389CF
