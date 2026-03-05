@@ -1,0 +1,1 @@
+-task StartClient -placeId 87324525547073 -universeId 8440539274 -server 209.25.142.27 -port 27056 -numTestServerPlayersUponStartup 1 -parentPid 540 -parentSessionGuid 0A86C24A-CA3E-4B39-96BB-712DCC5E68BE -instanceId StudioPlayer_0 -playTestSessionGuid E43DBD2D-E418-4238-B005-CE9E1A7C31D8
